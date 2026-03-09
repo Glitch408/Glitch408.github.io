@@ -3,8 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author_profile: true
 title: "General Guide"
 ---
+
+
 This is a general guide on how to create a DnD character with the 2024 ruleset.
 
 _**Remember**: There are different ways to determine things like ability scores. This website only uses the ones I usually utilize._ 
