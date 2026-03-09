@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Classes Overview"
+permalink: /classes/
 ---
  
 There are 12 different classes in the Dungeons and Dragons 5e 2024 Player Handbook. 
