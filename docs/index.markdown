@@ -40,6 +40,5 @@ Remember to keep your class in mind when distributing those scores. There is a r
 
 
 `Speed`, `size`  and other proficiencies are determined by your species. 
-<!---
-![Player handbook art](assets/dnd_player_handbook_cover_art.jpg)
---->
+
+![Player handbook art](/dnd_player_handbook_cover_art.jpg)

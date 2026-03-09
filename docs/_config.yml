@@ -31,6 +31,8 @@ github_username:  Glitch408
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+# remote_theme: moonwalk
 
 #keep_files: [assets]
 
