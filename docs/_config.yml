@@ -41,8 +41,13 @@ plugins:
 minimal_mistakes_skin: "dark"
 
 defaults: 
-  sidebar:
-    nav: "docs"
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 #keep_files: [assets]
 
 # Exclude from processing.
