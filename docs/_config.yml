@@ -28,7 +28,7 @@ twitter_username: Dungeons&Dragons
 github_username:  Glitch408
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
