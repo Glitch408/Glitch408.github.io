@@ -28,17 +28,11 @@ twitter_username: Dungeons&Dragons
 github_username:  Glitch408
 
 # Build settings
-# theme: minima
-
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-#remote_theme: C:/Users/jenny/Documents/Github/minimal-mistakes
-
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-include-cache
-
-minimal_mistakes_skin: "dark"
+# remote_theme: moonwalk
 
 #keep_files: [assets]
 
