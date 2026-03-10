@@ -5,11 +5,14 @@
 layout: home
 title: "General Guide"
 ---
-This is a general guide on how to create a DnD character with the 2024 ruleset.
+
+![Player handbook art](/dnd_player_handbook_cover_art.jpg)
+
+[This website](/about/) is a general guide on how to create a DnD character with the 2024 ruleset.
 
 _**Remember**: There are different ways to determine things like ability scores. This website only uses the ones I usually utilize._ 
 
-The first step is to choose a class and species. For this tutorial, we will build a character who is at level 1. 
+The first step is to choose a [class](/classes/) and [species](/species/). For this tutorial, we will build a character who is at level 1. 
 
 ### Ability score and modifier
 After having decided on who you will be playing, we will roll some `ability scores`. 
@@ -41,4 +44,4 @@ Remember to keep your class in mind when distributing those scores. There is a r
 
 `Speed`, `size`  and other proficiencies are determined by your species. 
 
-![Player handbook art](/dnd_player_handbook_cover_art.jpg)
+
