@@ -4,9 +4,9 @@ title:  "Species Overview"
 permalink: /species/
 
 ---
-This page lists all the different species and their abilities that differentiate them from another. Some of these are relevant for the [general character creation](/) and [classes](/classes/).
+This page lists all the different species and their abilities at level 1 that differentiate them from another. Some of these are relevant for the [general character creation](/) and [classes](/classes/).
 
-There are 10 different species in the Dungeons and Dragons 5e 2024 Player Handbook. All of them have the creature type 'humanoid'
+There are 10 different species in the Dungeons and Dragons 5e 2024 Player Handbook. All of them have the creature type 'humanoid':
 
 ### Aasimar
 > Size: `medium (about 4-7 feet tall) or small (about 2-4 feet tall)`
