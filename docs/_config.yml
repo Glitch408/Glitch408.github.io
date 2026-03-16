@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DnDo it
+title: DnDo it!
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is a step by step guide on creating your own DnD Character (2024 5e). 
